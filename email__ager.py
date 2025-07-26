@@ -90,8 +90,8 @@ class EmailAger:
             "smtp_port": 587,
             "imap_server": "imap.gmail.com", 
             "imap_port": 993,
-            "username": "your_email@gmail.com",
-            "password": "your_app_password",
+            "username": "myemial@mail.com",
+            "password": "password",
             "aging_folder": "INBOX/EmailAger",
             "min_aging_time": 30,  # minutes
             "max_aging_time": 1440,  # 24 hours
@@ -279,7 +279,7 @@ if __name__ == "__main__":
     batch_emails = [
         {
             "sender": "boss@company.com",
-            "recipient": "employee@company.com",
+            "recipient": "tom@rwhispr.dev",
             "subject": "Urgent Meeting Request", 
             "body": "We need to meet urgently about the thing.",
             "aging_minutes": 1
