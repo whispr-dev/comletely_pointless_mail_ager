@@ -1,3 +1,29 @@
+[README.md]
+
+# Completely-Pointless-Mail-Ager
+
+<p align="center">
+  <a href="https://github.com/whisprer/completely-pointless-mail-ager/releases"> 
+    <img src="https://img.shields.io/github/v/release/whisprer/completely-pointless-mail-ager?color=4CAF50&label=release" alt="Release Version"> 
+  </a>
+  <a href="https://github.com/whisprer/completely-pointless-mail-ager/actions"> 
+    <img src="https://img.shields.io/github/actions/workflow/status/whisprer/completely-pointless-mail-ager/lint-and-plot.yml?label=build" alt="Build Status"> 
+  </a>
+</p>
+
+![Commits](https://img.shields.io/github/commit-activity/m/whisprer/completely-pointless-mail-ager?label=commits) 
+![Last Commit](https://img.shields.io/github/last-commit/whisprer/completely-pointless-mail-ager) 
+![Issues](https://img.shields.io/github/issues/whisprer/completely-pointless-mail-ager) 
+[![Version](https://img.shields.io/badge/version-3.1.1-blue.svg)](https://github.com/whisprer/completely-pointless-mail-ager) 
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)](https://www.microsoft.com/windows)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+<p align="center">
+  <img src="completely-pointless-mail-ager-banner.png" width="850" alt="Completely-Pointless-Mail-Ager Banner">
+
+
+
 # Email Ager 3000™
 *"Making Email Worse Since Today"*
 
